@@ -5,3 +5,5 @@ git has a mutable index called stage.
 git tracks changes.
 
 happy end.
+
+created a new branch.
